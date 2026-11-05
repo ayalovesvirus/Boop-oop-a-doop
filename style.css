@@ -1,5 +1,3 @@
-/* Betty Boop Landing Page - Comic Style */
-
 * {
     margin: 0;
     padding: 0;
@@ -8,11 +6,10 @@
 }
 
 body {
-    background-color: #FFB7CE; /* light baby pink */
+    background-color: #FFB7CE; 
     color: #111;
 }
 
-/* ===== Navigation Bar ===== */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -45,7 +42,6 @@ body {
     color: #e60023;
 }
 
-/* ===== Hero Section ===== */
 .hero {
     text-align: center;
     padding: 50px 20px 70px;
@@ -56,7 +52,7 @@ body {
     max-width: 80%;
     border: 5px solid #111;
     border-radius: 20px;
-    box-shadow: 8px 8px 0 #111; /* comic shadow */
+    box-shadow: 8px 8px 0 #111; 
     background: #fff;
 }
 
@@ -90,7 +86,6 @@ body {
     box-shadow: 2px 2px 0 #111;
 }
 
-/* ===== Features Section ===== */
 .features {
     background-color: #fff;
     border-top: 4px solid #111;
@@ -127,7 +122,6 @@ body {
     font-size: 22px;
 }
 
-/* ===== About Section ===== */
 .about {
     text-align: center;
     padding: 50px 20px;
@@ -147,7 +141,6 @@ body {
     line-height: 1.6;
 }
 
-/* ===== Footer ===== */
 .footer {
     background-color: #111;
     color: #FFB7CE;
